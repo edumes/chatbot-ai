@@ -166,7 +166,7 @@ Edite o método `generateFakeBotResponse()` em `app/Livewire/Chatbot.php` para:
 ## 👨‍💻 Autor
 
 **Seu Nome**
-- GitHub: [@seu-usuario](https://github.com/edumes)
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/edumesz)
+- GitHub: [@edumes](https://github.com/edumes)
+- LinkedIn: [Eduardo Santarosa](https://linkedin.com/in/edumesz)
 
 ---
