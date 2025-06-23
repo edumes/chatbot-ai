@@ -131,7 +131,7 @@
         <div class="border-t border-gray-200 dark:border-gray-700 p-4 bg-gray-50 dark:bg-gray-800/50">
             <form wire:submit.prevent="sendMessage" class="flex space-x-3">
                 <div class="flex-1">
-                    <input type="text" wire:model.live="newMessage" placeholder="Digite sua mensagem..."
+                    <input type="text" wire:model.live="newMessage" placeholder="Type your message..."
                         class="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent dark:bg-gray-700 dark:text-white dark:placeholder-gray-400 transition-colors"
                         autocomplete="off">
                 </div>

@@ -26,7 +26,7 @@
             <div class="flex items-center space-x-3">
 
                 <!-- Search Button with Modal -->
-                <x-modal-search />
+                {{-- <x-modal-search /> --}}
 
                 <!-- Notifications button -->
                 {{-- <x-dropdown-notifications align="right" /> --}}
@@ -35,7 +35,7 @@
                 {{-- <x-dropdown-help align="right" /> --}}
 
                 <!-- Dark mode toggle -->
-                <x-theme-toggle />                
+                {{-- <x-theme-toggle />                 --}}
 
                 <!-- Divider -->
                 <hr class="w-px h-6 bg-gray-200 dark:bg-gray-700/60 border-none" />
