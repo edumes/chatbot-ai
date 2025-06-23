@@ -2,7 +2,7 @@
 
 Um sistema de chatbot inteligente desenvolvido com Laravel e Livewire, que permite conversas interativas com histórico persistente e interface moderna.
 
-![{C9609002-47CA-483F-9A3E-32AB40CEF9B8}](https://github.com/user-attachments/assets/15667603-ac8f-4e69-b926-4a50aed23b13)
+![{1816A59E-5888-4F25-A5A5-FF861D2ED744}](https://github.com/user-attachments/assets/53fe2688-1884-4297-ada9-1286bfeb373a)
 
 ## ✨ Funcionalidades
 
